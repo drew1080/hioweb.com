@@ -1,0 +1,5 @@
+[21-Nov-2013 20:27:39 America/Denver] PHP Fatal error:  Call to undefined function add_theme_support() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/post_thumbnails_vertex.php on line 2
+[21-Nov-2013 20:27:43 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/core_functions.php on line 8
+[21-Nov-2013 20:27:44 America/Denver] PHP Fatal error:  Call to undefined function add_custom_background() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/custom_functions.php on line 4
+[21-Nov-2013 20:27:45 America/Denver] PHP Fatal error:  Call to undefined function get_categories() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/options_vertex.php on line 6
+[21-Nov-2013 20:27:46 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/import_settings.php on line 2

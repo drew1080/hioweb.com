@@ -1,0 +1,31 @@
+/*
+Theme Name:     HioWeb
+Description:    Child of Vertex
+Author:         HioWeb
+Template:       Vertex
+Version:	1.0
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../Vertex/style.css");
+
+h2 a, h3 a {
+  color: green;
+}	
+
+#pre-footer {
+  display: none;
+}
+
+#main-footer {
+  background-color: #243b5e;
+}
+
+.home-block {
+  display: none;
+}
+
+span.wpcf7-list-item {
+  display: block;
+}

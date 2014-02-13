@@ -1,0 +1,1 @@
+[21-Nov-2013 20:27:42 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home6/wonderi4/public_html/hioweb/wp-content/themes/Vertex/epanel/page_templates/page_templates.php on line 5
